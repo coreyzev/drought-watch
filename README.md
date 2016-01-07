@@ -3,6 +3,8 @@ The code behind [isthefuckingdroughtover.com](http://isthefuckingdroughtover.com
 
 Right now it's a simple HTML page just to have something up. But I want it to be more than that. 
 
+---
+
 Road map I need help with:
 
 * Mock up more interesting data
@@ -13,3 +15,9 @@ Road map I need help with:
   * Total precipitation over X amount of time VERSUS total needed in X amount to fix drought
   * Simple weather forcast?
 * Get a CI build going
+
+---
+
+Want to help out? Set up your idea here: https://github.com/coreyzev/drought-watch/issues/new
+
+Fork it and collaborate. I'm running it on a DigitalOcean LAMP server at the moment. Ubuntu 14
